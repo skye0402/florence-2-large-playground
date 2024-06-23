@@ -65,3 +65,10 @@ For more details on Florence-2, you can refer to the official publication by Mic
 Make sure to install these dependencies before running the script.
 
 Enjoy exploring the capabilities of the Florence-2 Vision Model!
+
+### Example of a detailed caption
+![image](./images/caption1.jpg "Example of a detailed caption")
+### Example of a segmentation 'a cup of coffee'
+![image](./images/caption2.jpg "Example of a segmentation")
+### Example of detailed object detection
+![image](./images/caption3.jpg "Example of detailed object detection")
