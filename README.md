@@ -41,6 +41,8 @@ Florence-2 is a novel vision foundation model designed to handle a variety of co
 - **Expression Segmentation**
 - **Open Vocabulary Detection**
 
+![image](./images/cover.png "Example of a detection")
+
 ## Example
 
 1. Upload an image.
